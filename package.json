@@ -2,7 +2,7 @@
   "name": "whatsapp-multi-server",
   "version": "1.0.0",
   "description": "Sistema Multi-Instâncias WhatsApp para EKKO Brindes",
-  "main": "server.js",
+  "main": "server-simple.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
