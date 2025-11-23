@@ -4,9 +4,9 @@
   "description": "Sistema Multi-Instâncias WhatsApp para EKKO Brindes",
   "main": "server-simple.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
-  },
+  "start": "node server-simple.js",
+  "dev": "nodemon server-simple.js"
+},
   "keywords": [
     "whatsapp",
     "multi-instance",
